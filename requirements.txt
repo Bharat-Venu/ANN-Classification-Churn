@@ -1,4 +1,3 @@
-python
 tensorflow>=2.10,<2.13
 pandas
 numpy
